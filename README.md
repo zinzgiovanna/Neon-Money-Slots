@@ -2,6 +2,8 @@ Game | Neon Money Slots
 
 ![casino slots machine](./img/screen/favicon.jpg)
 
+[![Play Neon Money Slots](./img/google-play-badge.png)](https://play.google.com/store/apps/details?id=online.slots.neon.money.app "Play Neon Money Slots")
+
 Play to play Neon Money Slots
 =============================
 
