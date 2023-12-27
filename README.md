@@ -1,11 +1,11 @@
 Game | Neon Money Slots
 
-![casino slots machine](img/screen/favicon.jpg)
+![casino slots machine](./img/screen/favicon.jpg)
 
 Play to play Neon Money Slots
 =============================
 
-![online casino slots machine](img/screen/online-casino-slots-3.jpg)
+![online casino slots machine](./img/screen/online-casino-slots-3.jpg)
 
 In the not-too-distant past, slot-machine players were the second-class citizens of casino customers. Jackpots were small, payout percentages were horrendous, and slot players just weren't eligible for the kind of complimentary bonuses -- free rooms, shows, meals -- commonly given to table players. But in the last few decades the face of the casino industry has changed. Nowadays more than 70 percent of casino revenues comes from slot machines, and in many jurisdictions, that figure tops 80 percent.
 
@@ -30,7 +30,7 @@ Video slots typically have representations of five reels spinning on a video scr
 
 In addition, video slots usually feature bonus rounds and "scatter pays." Designated symbols trigger a scatter pay if two, three, or more of them appear on the screen, even if they're not on the same payline.
 
-![online slots](img/screen/online-casino-slots-4.jpg)
+![online slots](./img/screen/online-casino-slots-4.jpg)
 
 Similarly, special symbols will trigger a bonus event. The bonus may take the form of a number of free spins, or the player may be presented with a "second screen" bonus. An example of a second screen bonus comes in the long-popular WMS Gaming Slot "Jackpot Party." If three Party noisemakers appear on the video reels, the reels are replaced on the screen with a grid of packages in gift wrapping. The player touches the screen to open a package and collects a bonus payout. He or she may keep touching packages for more bonuses until one package finally reveals a "pooper," which ends the round. The popularity of such bonus rounds is why video slots have become the fastest growing casino game of the last decade.
 
@@ -57,7 +57,7 @@ The microprocessors driving today's machines are programmed with random-number g
 
 Each possible combination is assigned a number, or numbers. When the random-number generator receives a signal -- anything from a coin being dropped in to the handle being pulled -- it sets a number, and the reels stop on the corresponding combination.
 
-![slots online](img/screen/online-casino-slots-5.jpg)
+![slots online](./img/screen/online-casino-slots-5.jpg)
 
 Between signals, the random-number generator operates continuously, running through dozens of numbers per second. This has two practical effects for slot players. First, if you leave a machine, then see someone else hit a jackpot shortly thereafter, don't fret. To hit the same jackpot, you would have needed the same split-second timing as the winner. The odds are overwhelming that if you had stayed at the machine, you would not have hit the same combination.
 
@@ -65,7 +65,7 @@ Second, because the combinations are random, or as close to random as is possibl
 
 So, is there a way to ensure that you hit it big on a slot machine? Not really, but despite the overriding elements of chance, there are some strategies you can employ. We'll cover these in the next section.
 
-![slots machine online](img/screen/online-casino-slots-6.jpg)
+![slots machine online](./img/screen/online-casino-slots-6.jpg)
 
 ### Casino Slot Machine Myths
 
@@ -79,7 +79,7 @@ Because most players do not understand how slot machines work, whole sets of bel
 
 **The payback percentage is lowered when the crowds are bigger and demand is greater.** It's not that easy to change a machine's programming. Changing the programmed payback percentage requires opening the machine and replacing a computer chip. That's not something to do cavalierly.
 
-![android online casino](img/screen/online-casino-slots.jpg)
+![android online casino](./img/screen/online-casino-slots.jpg)
 
 Online Casino Slot Machine Strategies
 -------------------------------------
@@ -96,7 +96,7 @@ These jackpots can be enormous -- the record is $39,710,826.26, a $1 progressive
 
 If you must play fewer than maximum coins, look for a multiplier in which the final-coin jump in the top jackpot is fairly small. Better yet, choose a machine that allows you to stay within your budget while playing maximum coins. If your budget won't allow you to play maximum coins on a $1 machine, move to a quarter machine. If you're not comfortable playing three quarters at a time, move to a two-quarter machine. If you can't play two quarters at a time, play a nickel machine.
 
-![online casino slots machine](img/screen/online-casino-slots-1.jpg)
+![online casino slots machine](./img/screen/online-casino-slots-1.jpg)
 
 With so many paylines and the possibility of betting multiple coins per line, video slots are different. Some penny slots with 20 paylines take up to 25 coins per line. That's a $5 maximum bet -- a pretty penny indeed! Most players bet less than the max on video slots but are sure to cover all the paylines, even if betting only one coin per line. You want to be sure to be eligible for the bonus rounds that give video slots most of their fun. Some progressive jackpots require max coins bets, and some don't. If a max-coins bet is required to be eligible for the jackpot and you're not prepared to roll that high, find a different machine.
 
@@ -108,7 +108,7 @@ Most of that money is recycled from smaller payouts--at a casino returning 93 pe
 
 One method for managing money is to divide your slot bankroll for the day into smaller-session bankrolls. If, for example, you've taken $100 on a two-and-a-half-hour riverboat cruise, allot $20 for each half-hour. Select a quarter machine -- dollar machines could devastate a $100 bankroll in minutes -- and play the $20 through once. If you've received more than $20 in payouts, pocket the excess and play with the original $20. At the end of one half-hour, pocket whatever is left and start a new session with the next $20.
 
-![online slots machine](img/screen/online-casino-slots-2.jpg)
+![online slots machine](./img/screen/online-casino-slots-2.jpg)
 
 If at any point the original $20 for that session is depleted, that session is over. Finish that half-hour with a walk, or a snack, or a drink until it is time for a new session. Do not dip back into money you've already pocketed.
 
@@ -134,7 +134,7 @@ To some extent, it will allow operators to tailor their game offerings to player
 
 Just as video slots and payoffs by bar-coded tickets have revolutionized the slot floor in the last decade, you can look for server-based games to give casinos another overhaul in the coming years. It won't be long, and the process has already begun.
 
-![android online slots machine](img/screen/online-casino-slots-3.jpg)
+![android online slots machine](./img/screen/online-casino-slots-3.jpg)
 
 ### Play Online Slot Machines FAQ
 
@@ -158,6 +158,6 @@ When you hit a winning combination, winnings will be added to the credit meter. 
 
 No, but you can earn bonuses. The bonus may take the form of a number of free spins, or the player may be presented with a "second screen" bonus.
 
-[![Play Neon Money Slots](img/google-play-badge.png)](https://play.google.com/store/apps/details?id=online.slots.neon.money.app "Play Neon Money Slots")
+[![Play Neon Money Slots](./img/google-play-badge.png)](https://play.google.com/store/apps/details?id=online.slots.neon.money.app "Play Neon Money Slots")
 
 {"@context":"https://schema.org","@type":"WebSite","@id":"#website","url":"https://neon-money-slots.online","name":"Neon Money Slots","description":"Slot machines, also known as fruit machines, pokies, or one-armed bandits, are popular gambling devices found in casinos, bars, and even online platforms. These captivating machines have a rich history and have evolved significantly since their inception.","keywords":"casino slots game, slot-machine, online slots, slot machine game","about":"Slot machines, also known as fruit machines, pokies, or one-armed bandits, are popular gambling devices found in casinos, bars, and even online platforms. These captivating machines have a rich history and have evolved significantly since their inception.","image":"https://neon-money-slots.online/logo.png","sourceOrganization":{"@type":"Organization","url":"https://neon-money-slots.online","name":"WEST OPT","description":"Slot machines, also known as fruit machines, pokies, or one-armed bandits, are popular gambling devices found in casinos, bars, and even online platforms. These captivating machines have a rich history and have evolved significantly since their inception.","image":"https://neon-money-slots.online/assets/img/favicon/favicon512.png","logo":{"@type":"ImageObject","url":"https://neon-money-slots.online/assets/img/favicon/favicon512.png","width":"512","height":"512"}}}{"@context":"https://schema.org","@type":"Organization","url":"https://neon-money-slots.online","name":"WEST OPT","description":"Slot machines, also known as fruit machines, pokies, or one-armed bandits, are popular gambling devices found in casinos, bars, and even online platforms. These captivating machines have a rich history and have evolved significantly since their inception.","image":"https://neon-money-slots.online/assets/img/favicon/favicon512.png","logo":{"@type":"ImageObject","url":"https://neon-money-slots.online/assets/img/favicon/favicon512.png","width":"512","height":"512"}}
