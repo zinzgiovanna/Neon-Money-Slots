@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "online.slots.neon.money.app",
       "sha256_cert_fingerprints": [
-        "E7:BC:69:45:23:87:2C:2E:E2:AA:E9:94:23:BA:BB:16:20:19:C8:17:0F:BC:12:BA:AA:31:98:7E:42:4E:1C:77"
+        "E7:BC:69:45:23:87:2C:2E:E2:AA:E9:94:23:BA:BB:16:20:19:C8:17:0F:BC:12:BA:AA:31:98:7E:42:4E:1C:77",
+        "AE:33:16:35:90:0D:F3:17:76:CC:12:6F:5E:56:ED:93:3D:EE:2D:E7:89:B8:E1:3A:B3:8A:BA:74:4F:AC:C9:41"
       ]
     }
   }
